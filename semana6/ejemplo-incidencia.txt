@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 189
+ETag: W/"bd-yU8kM5tc3lCVLaHxvLu4ksbVC2g"
+Date: Sat, 04 Jul 2026 23:20:03 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "inundacion por lluvia",
+  "descripcion": "se evidencia q cada vez q llueve el barrio se inunda de tal manera que no podemos salir de nuestras casas."
+}
